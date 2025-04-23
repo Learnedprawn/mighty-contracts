@@ -32,4 +32,3 @@ It enables users to open leveraged positions, maximizing capital efficiency.
 | `PrimaryPriceOracle`       | The main oracle contract that provides price feeds for the protocol’s internal calculations.                                                                                                |
 | `VaultRegistry`            | A registry contract that manages and tracks Vault IDs. Vaults must be registered after deployment to be recognized by the protocol.                                                         |
 | `LendingPool`              | A forked version of ExtraFi’s lending pool, designed to accept deposits of a single token. Vault contracts can borrow from it to create leveraged positions.                                |
-# mighty-contracts
